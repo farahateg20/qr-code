@@ -1,0 +1,43 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.container {
+  position: absolute;
+  width: 1440px;
+  height: 800px;
+  background: #d5e1ef;
+  top: 100px;
+  left: 100px;
+}
+
+.card {
+  position: relative;
+  width: 330px;
+  height: 500px;
+  background: #ffffff;
+  top: 150px;
+  left: 555px;
+  border-radius: 20px;
+}
+
+.code {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  border-radius: 15px;
+  top: 15px;
+  left: 15px;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
