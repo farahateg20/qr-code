@@ -11,8 +11,9 @@
   width: 1440px;
   height: 800px;
   background: #d5e1ef;
-  top: 100px;
-  left: 100px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .card {
@@ -34,8 +35,9 @@
   left: 15px;
 }
 
-h2 {
+h1 {
   text-align: center;
+  font-size: x-large;
 }
 
 p {
